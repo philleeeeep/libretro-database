@@ -40,3 +40,14 @@ cheat9_desc = "Full Data On Pokemon, And Badges Set 2"
 cheat9_code = "FFA-8AD-E6A+77A-8BD-C4C"
 cheat9_enable = false 
 
+cheat10_desc = "Infinite Money 1"
+cheat10_code = "019946D3"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Money 2"
+cheat11_code = "019947D3"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Money 3"
+cheat12_code = "019948D3"
+cheat12_enable = false
